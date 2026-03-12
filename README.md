@@ -2,11 +2,11 @@
 im just a dumb begginer dev 👍👍
 
 • currently maintaining:
-/e/OS for poco f6 (peridot)
+- /e/OS for poco f6 (peridot
 
 • electronics:
-poco f6
-optiplex 780
+- poco f6 
+- optiplex 780
 
 
 ## os
