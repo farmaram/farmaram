@@ -1,15 +1,13 @@
 ## hi, i'm noname
-• currently maintaining:
+im just a dumb begginer dev 👍👍
 
+• currently maintaining:
 /e/OS for poco f6 (peridot)
 
-# electronics:
+• electronics:
 poco f6 (peridot)
-
 optiplex 780
 
-##
-im just a dumb begginer dev 👍👍
 
 ## os
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
