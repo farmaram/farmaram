@@ -5,7 +5,7 @@ currently maintaining:
 - /e/OS for poco f6 (peridot
 
 electronics:
-- poco f6 
+- poco f6 (peridot)
 - optiplex 780
 
 
