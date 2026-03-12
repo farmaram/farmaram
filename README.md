@@ -1,4 +1,4 @@
-## hi, I'm noname
+## hi, i'm nonamel
 im just a dumb begginer dev 👍👍
 
 ## os
