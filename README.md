@@ -1,7 +1,8 @@
 ### hi, i'm farmaram and im just a begginer dev 👍
 
 currently maintaining:
-- /e/OS for poco f6 (peridot
+- /e/OS for poco f6 (peridot)
+- iodéOS for poco f6 (peridot)
 
 electronics:
 - poco f6 (peridot)
