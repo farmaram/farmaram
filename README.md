@@ -1,4 +1,4 @@
-## Hi, I'm noname
+## Hi, I'm noname! :)
 
 ## Operational Systems:
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
