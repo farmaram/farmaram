@@ -5,7 +5,7 @@ im just a dumb begginer dev 👍👍
 /e/OS for poco f6 (peridot)
 
 • electronics:
-poco f6 (peridot)
+poco f6
 optiplex 780
 
 
