@@ -1,6 +1,5 @@
 ## hi, i'm noname
-## currently maintaining /e/OS for poco f6 (peridot)
-
+currently maintaining /e/OS for poco f6 (peridot)
 im just a dumb begginer dev 👍👍
 
 ## os
