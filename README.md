@@ -1,5 +1,5 @@
 ## hi, i'm noname
-im just a dumb begginer dev 👍👍
+im just a begginer dev 👍👍
 
 currently maintaining:
 - /e/OS for poco f6 (peridot
