@@ -4,6 +4,7 @@
 
 # electronics:
 poco f6 (peridot)
+
 optiplex 780
 
 ##
