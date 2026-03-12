@@ -6,6 +6,7 @@
 poco f6 (peridot)
 optiplex 780
 
+##
 im just a dumb begginer dev 👍👍
 
 ## os
