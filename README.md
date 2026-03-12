@@ -1,5 +1,10 @@
 ## hi, i'm noname
-currently maintaining /e/OS for poco f6 (peridot)
+• currently maintaining:
+/e/OS for poco f6 (peridot)
+
+# electronics:
+poco f6 (peridot)
+optiplex 780
 
 im just a dumb begginer dev 👍👍
 
