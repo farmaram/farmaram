@@ -1,5 +1,5 @@
 ## hi, I'm noname
-im just a begginer dev 
+im just a dumb begginer dev 👍👍
 
 ## operational systems:
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
