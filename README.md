@@ -1,13 +1,5 @@
 ### hi, i'm farmaram and im just a begginer dev 👍
 
-currently maintaining:
-- /e/OS for poco f6 (peridot)
-- iodéOS for poco f6 (peridot)
-
-electronics:
-- poco f6 (peridot)
-
-
 ## os
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
